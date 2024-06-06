@@ -4,3 +4,6 @@ The basic system for PWM SoC system:
 
 
 ![PWM](https://github.com/TDung-uit/Project/assets/145430264/abc25208-7a2a-4e6a-950c-52e8a01d0089)
+
+
+Link Video Demo: [https://youtube.com/shorts/KsEWujii69w?si=3F3acjFt0aLTchMh](url)
