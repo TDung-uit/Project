@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      itsupport
+HostName                       localhost.localdomain
+ProcessIdentifier              3235
+ProcessCreationTime_UTC        1715746413
+ProcessCreationTime_Readable   Wed 15 May 2024 11:13:33 AM +07 +07
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/itsupport/Desktop/lab1vlsi/FullAdder2bit/FullAdder2bit/layout/layout.oa.cdslck
+TimeEditLocked                 Wed 15 May 2024 11:13:55 AM +07 +07
