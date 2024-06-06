@@ -11,4 +11,6 @@ PWM architecture:
   Except for the PWM, which must be designed, the remaining blocks can be taken from the existing system.
 
 
-  Link Video Demo: [https://youtube.com/shorts/KsEWujii69w?si=3F3acjFt0aLTchMh](url)
+  Link Video Demo: [https://youtube.com/shorts/KsEWujii69w?si=3F3acjFt0aLTchMh]
+
+  
